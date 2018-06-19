@@ -19,4 +19,4 @@
 * HTML表格作业：建立行星数据[demo](http://laginalin.github.io/mdn-project/html/tables/c-planet-data/planet-data.html)
 ### HTML表单
 * 创建第一个表单：第一个表单[demo](http://laginalin.github.io/mdn-project/html/forms/a-first-form/first-form.html)
-* 构建HTML表单：构建一个表单结构——一个支付页面[demo](http://laginlalin.github.io/mdn-project/html/forms/b-form-structure/payment-form.html)
+* 构建HTML表单：构建一个表单结构——一个支付页面[demo](http://laginalin.github.io/mdn-project/html/forms/b-form-structure/payment-form.html)
